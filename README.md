@@ -1,1 +1,1 @@
-# tds-scheduled-action
+[![Daily Automated Commit](https://github.com/23f3003227/tds-scheduled-action/actions/workflows/schedule.yml/badge.svg)](https://github.com/23f3003227/tds-scheduled-action/actions/workflows/schedule.yml)
